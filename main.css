@@ -1,0 +1,12 @@
+body {
+    background-image: url("puggy.jpg");
+    background-color: #e8e8ff;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: #333;
+    font-family: arial;
+    font-size: 100px;
+}
